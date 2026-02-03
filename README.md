@@ -1,12 +1,7 @@
 # sku-dashboard-powerbi
 A Power BI dashboard designed to monitor material creation, governance compliance, and business unit performance.
-# Power BI SKU Governance Dashboard
 
-## Overview
-A Power BI dashboard designed to monitor material creation, governance compliance,
-and business unit performance.
-
-> ⚠️ Data shown is anonymized and for demonstration purposes only.
+Data shown is anonymized and for demonstration purposes only.
 
 ## Business Problem
 Multiple business units create materials independently, leading to governance
